@@ -1,0 +1,15 @@
+streamlit
+ollama
+python-dotenv
+
+# LangChain (new split packages)
+langchain
+langchain-community
+langchain-text-splitters
+
+# PDF handling
+pypdf
+
+# Embeddings & vector store
+faiss-cpu
+sentence-transformers
